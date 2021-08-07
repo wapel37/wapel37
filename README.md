@@ -3,10 +3,10 @@
 - I really like Python, but i like Kotlin too
 - I love sailing
 - 🔭 I’m currently working on Discord bots:
-  - it's a little messy and my tokens are as plain text in code, but i'll make it avaliable for you soon
+  - it's a little messy code and my tokens are as plain text in it, but i'll make it avaliable for you soon
 - 🔭 I’m also working on my own Minecraft launcher
   - it's very early version, i'll show it to you with first release or earlier
-- 🔭 (I'm planning one secret cringy game)
+- 🔭 (I'm planning one secret cringy game, more details soon)
 - 👯 I even collaborate on some android app, but it's also secret
 - 📫 How to reach me: wapel37#4422
 

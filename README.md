@@ -5,6 +5,9 @@
 - I really like Python, but i like Kotlin too
 - ⛵ I love sailing
 
+### EVERYTHING BELOW IS THE RELICT OF THE PAST (except discord username)
+I'll try to remember to update it ;)
+
 #### What i'm actually doing? (and why it's not in public repo... :disappointed:)
 - 🔭 I’m currently working on **Discord Bots** 🤖
   - **About Project** This bots are made for one guild use, but are awesome. Of course there is support for slash commands.
@@ -40,7 +43,7 @@
 - 👯 I even collaborate on some android app for singers, but it's also secret
 
 #### How to reach me?
-It's simple: just use discord... **wapel37#4422**
+It's simple: just use discord... **wapel37**
 But wait! We don't have any common guilds, and i'm ignoring your friend request?
 Hmm... u can use this (there are my discord bots also): https://discord.gg/u3c2mzRWKC
 

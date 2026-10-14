@@ -1,10 +1,11 @@
 ### Hi there good people :wave:
 
 #### About me :point_right: :point_left:
-- I like Python
-- I really like Python, but i like Kotlin too
+- I am native Python speaker & Haskell enthusiast
+- I cast spells in CPP
 - ⛵ I love sailing
 
+<!--
 ### EVERYTHING BELOW IS THE RELICT OF THE PAST (except discord username)
 I'll try to remember to update it ;)
 
